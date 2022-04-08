@@ -1,3 +1,5 @@
+package Chapter2;
+
 import java.util.Scanner;
 
 public class reverse_array_prec {

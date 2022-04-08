@@ -1,3 +1,5 @@
+package Chapter2;
+
 import java.util.Scanner;
 
 class ReverseArray {
