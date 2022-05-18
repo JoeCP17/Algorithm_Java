@@ -1,3 +1,3 @@
 # Algorithm_Java
 
-이진검색 파트 
+검색파트 마무리
