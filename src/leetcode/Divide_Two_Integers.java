@@ -1,4 +1,4 @@
-package leetcode.Q29;
+package leetcode;
 
 // dividend : 나눌 수
 // divisor : 나누는 수
